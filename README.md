@@ -25,8 +25,7 @@ Although I am currently working on web development projects as a freelancer, I a
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berkowhiskey&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkowhiskey&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Berkowhiskey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
