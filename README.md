@@ -1,7 +1,7 @@
 # Welcome to My Profile 👋
 **My name is Berk. I am a Computer Engineering student.**<br>
 
-I am a Computer Engineering student. Throughout my university life, I have been involved in various projects. I have worked as a Full Stack Web Developer on many of these projects. In addition to these projects, I have also worked in the field of Natural Language Processing and participated in competitions in these areas.<br>
+Throughout my university life, I have been involved in various projects. I have worked as a Full Stack Web Developer on many of these projects. In addition to these projects, I have also worked in the field of Natural Language Processing and participated in competitions in these areas.<br>
 Although I am currently working on web development projects as a freelancer, I am open to any type of software project. Feel free to reach out to me!
 
 ### 🛠️ The Technologies and Tools I Use
