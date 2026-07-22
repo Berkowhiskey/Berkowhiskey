@@ -25,7 +25,9 @@ Although I am currently working on web development projects as a freelancer, I a
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=[Berkowhiskey]&theme=dark&hide_border=true)
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Berkowhiskey&theme=dark&hide_border=true" alt="Berkowhiskey GitHub Streak" />
+  </a>
 </div>
 
 ---
