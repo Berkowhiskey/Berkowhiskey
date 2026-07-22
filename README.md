@@ -25,7 +25,7 @@ Although I am currently working on web development projects as a freelancer, I a
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Berkowhiskey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=[Berkowhiskey]&theme=dark&hide_border=true)
 </div>
 
 ---
