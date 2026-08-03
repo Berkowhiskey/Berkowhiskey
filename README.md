@@ -24,7 +24,7 @@ Although I am currently working on web development projects as a freelancer, I a
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://api.streak-tracker.me/api/v1/badges/Berkowhiskey.svg?lang=en)](https://github.com/Berkowhiskey)
+[![GitHub Streak](https://api.streak-tracker.me/api/v1/badges/Berkowhiskey.svg?lang=en&s=ca3b1790)](https://github.com/Berkowhiskey)
 
 ---
 
